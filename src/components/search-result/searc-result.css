@@ -26,7 +26,10 @@
     font-size: 18px;
     padding: 10px 5px;
     background-color: #f8dddd;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
+}
+.search-result-container .sub-container .content-box .result .title span {
+    color: red;
 }
 .search-result-container .sub-container .content-box .result .title:hover {
     background-color: #d7d7d7;
